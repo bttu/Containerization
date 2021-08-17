@@ -191,7 +191,7 @@ push_after_build | boolean | required | Determine application (docker image) pus
 
 ```
 {
-    "vendor": "on_premise",
+    "vendor": "aws",
     "metadata": {
         "xrt_version": "2019.2",
         "os_version": "centos"
